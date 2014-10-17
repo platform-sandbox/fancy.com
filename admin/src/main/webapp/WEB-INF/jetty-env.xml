@@ -19,9 +19,9 @@ IT IS NOT RECOMMENDED TO USE JETTY IN A PRODUCTION ENVIRONMENT.
         <Arg>
             <New class="org.apache.commons.dbcp.BasicDataSource">
                 <Set name="driverClassName">com.mysql.jdbc.Driver</Set>
-                <Set name="url">jdbc:mysql://localhost:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
-                <Set name="username">root</Set>
-                <Set name="password"></Set>
+                <Set name="url">jdbc:mysql://aa1azcg0eo6kq2q.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
+                <Set name="username">hwlee</Set>
+                <Set name="password">hwlee1234</Set>
             </New>
         </Arg>
     </New>
@@ -31,9 +31,9 @@ IT IS NOT RECOMMENDED TO USE JETTY IN A PRODUCTION ENVIRONMENT.
         <Arg>
             <New class="org.apache.commons.dbcp.BasicDataSource">
                 <Set name="driverClassName">com.mysql.jdbc.Driver</Set>
-                <Set name="url">jdbc:mysql://localhost:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
-                <Set name="username">root</Set>
-                <Set name="password"></Set>
+                <Set name="url">jdbc:mysql://aa1azcg0eo6kq2q.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
+                <Set name="username">hwlee</Set>
+                <Set name="password">hwlee1234</Set>
             </New>
         </Arg>
     </New>
@@ -43,9 +43,9 @@ IT IS NOT RECOMMENDED TO USE JETTY IN A PRODUCTION ENVIRONMENT.
         <Arg>
             <New class="org.apache.commons.dbcp.BasicDataSource">
                 <Set name="driverClassName">com.mysql.jdbc.Driver</Set>
-                <Set name="url">jdbc:mysql://localhost:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
-                <Set name="username">root</Set>
-                <Set name="password"></Set>
+                <Set name="url">jdbc:mysql://aa1azcg0eo6kq2q.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
+                <Set name="username">hwlee</Set>
+                <Set name="password">hwlee1234</Set>
             </New>
         </Arg>
     </New>
