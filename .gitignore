@@ -132,3 +132,4 @@ proguard/
 # Log Files
 *.log
 
+/.project
