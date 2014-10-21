@@ -19,7 +19,7 @@ IT IS NOT RECOMMENDED TO USE JETTY IN A PRODUCTION ENVIRONMENT.
         <Arg>
             <New class="org.apache.commons.dbcp.BasicDataSource">
                 <Set name="driverClassName">com.mysql.jdbc.Driver</Set>
-                <Set name="url">jdbc:mysql://aa1azcg0eo6kq2q.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
+                <Set name="url">jdbc:mysql://aa1h1182mfvxnby.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
                 <Set name="username">hwlee</Set>
                 <Set name="password">hwlee1234</Set>
             </New>
@@ -31,7 +31,7 @@ IT IS NOT RECOMMENDED TO USE JETTY IN A PRODUCTION ENVIRONMENT.
         <Arg>
             <New class="org.apache.commons.dbcp.BasicDataSource">
                 <Set name="driverClassName">com.mysql.jdbc.Driver</Set>
-                <Set name="url">jdbc:mysql://aa1azcg0eo6kq2q.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
+                <Set name="url">jdbc:mysql://aa1h1182mfvxnby.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
                 <Set name="username">hwlee</Set>
                 <Set name="password">hwlee1234</Set>
             </New>
@@ -43,7 +43,7 @@ IT IS NOT RECOMMENDED TO USE JETTY IN A PRODUCTION ENVIRONMENT.
         <Arg>
             <New class="org.apache.commons.dbcp.BasicDataSource">
                 <Set name="driverClassName">com.mysql.jdbc.Driver</Set>
-                <Set name="url">jdbc:mysql://aa1azcg0eo6kq2q.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
+                <Set name="url">jdbc:mysql://aa1h1182mfvxnby.cuaswe8zuh4h.ap-southeast-1.rds.amazonaws.com:3306/broadleaf?useUnicode=true&amp;characterEncoding=utf8</Set>
                 <Set name="username">hwlee</Set>
                 <Set name="password">hwlee1234</Set>
             </New>
